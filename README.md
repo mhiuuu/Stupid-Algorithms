@@ -1,5 +1,5 @@
 # Stupid-Algorithms
-My preparation for nothing after a long time .... every things is C++ (F*** C++ I hate it)
+My preparation for nothing after a long time .... every things is C++ or Python or any other language I know(F*** C++ I hate it)
 
 Attention: 
 - When comparing these algorithms with each other, there are many issues to pay attention to:
